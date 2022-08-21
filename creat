@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "creating directory"
+mkdir NFCU/john3
+mkdir NFCU/john3/pete1
+mkdir NFCU/john3/peter1/eric1
+mkdir NFCU/john3/peter1/eric1/
+thomas1
+tree NFCU
+echo directories created
